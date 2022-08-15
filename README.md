@@ -45,7 +45,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Please find GIF of walk through below
 
-![working example gif](./assets/Object%20Relational%20Mapping.gif)
+[working example gif](./assets/Object%20Relational%20Mapping.gif)
 
 Please find MP4 of walk through below
 
